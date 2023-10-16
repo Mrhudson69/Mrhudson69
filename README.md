@@ -1,7 +1,7 @@
 [![MasterHead](https://www.purevpn.com/wp-content/uploads/2021/09/banner-how-they-hack-wifi_nologo.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Sirohi</h1>
 <h3 align="center">A passionate Cloud Engineer/Hacker from India</h3>
-<img align="right" alt="Hacking" width="400" src="https://cdn.pixabay.com/animation/2023/09/07/21/54/21-54-00-174_512.gif">
+<img align="right" alt="Hacking" width="350" src="https://media.tenor.com/OcYSxPfduEMAAAAj/hacker-friend.gif">
 
 - 🔭 I’m currently working on **Cloud Engineering**
 
