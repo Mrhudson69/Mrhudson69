@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/starboyjaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starboyjaat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22533399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22533399" height="30" width="40" /></a>
 <a href="https://instagram.com/starboy_z900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starboy_z900" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thinkwisechannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thinkwisechannel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thinkwiseofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thinkwisechannel" height="30" width="40" /></a>
 <a href="https://discord.gg/zDH6nY3p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zDH6nY3p" height="30" width="40" /></a>
 </p>
 
