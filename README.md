@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloud Engineering**
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://melodious-souffle-e33dd7.netlify.app/](https://melodious-souffle-e33dd7.netlify.app/)
 
