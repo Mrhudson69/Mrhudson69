@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **rohansirohi5@gmail.com**
 
+- https://linktr.ee/thinkwise.channel
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/starboyjaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starboyjaat" height="30" width="40" /></a>
