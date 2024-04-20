@@ -2,12 +2,12 @@
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/yatharth7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+<a href="https://www.linkedin.com/in/starboyjaat/" target="blank">
+  <img align="center" src="https://media.licdn.com/dms/image/D4D03AQEOHeVqUAV3Iw/profile-displayphoto-shrink_400_400/0/1690420579767?e=1718841600&v=beta&t=QaOEmD2IT6RWenna1dGwnwm1Lb1AndsD62UG5hsxpSs" alt="RohanSirohi" width="22px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22533399/rohan-sirohi" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="RohanSirohi" width="22px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://fb.com/rohansirohi" target="blank">
