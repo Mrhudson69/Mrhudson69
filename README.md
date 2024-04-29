@@ -56,6 +56,8 @@
 
  - 🎖 Architecting Solutions on AWS - [Coursera](https://www.coursera.org/learn/architecting-solutions-on-aws)
 
+ - 🎖 Bash Scripting on Linux - [Youtube](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=oZRBfdHqd3tfHeE_)
+
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="go" title="go" width="40" height="40"/> 
