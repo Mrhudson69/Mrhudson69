@@ -38,7 +38,7 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Setup GOCD Agent on Linux using script - [Github](https://github.com/Mrhudson69/Install-go-agent-in-linux-container)
+- 📦 Setup GOCD Agent on Linux using script and much more - [Github](https://github.com/Mrhudson69/Install-go-agent-in-linux-container)
 
 - 📦 Setting Up XRDP on Debian 12 Container (Proxmox) - [Github](https://github.com/Mrhudson69/setup-xrdp-on-debian-12-container-lxc)
 
