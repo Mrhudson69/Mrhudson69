@@ -36,7 +36,7 @@
 
 ⚡ Fun fact **We guys automate stuff**
 
-##### 👨‍💻 Some of the projects I have worked recently
+##### 👨‍💻 Some of the projects I have worked recently checkout below
 
 - 📦 Setup GOCD Agent on Linux using script and much more - [Github](https://github.com/Mrhudson69/Install-go-agent-in-linux-container)
 
