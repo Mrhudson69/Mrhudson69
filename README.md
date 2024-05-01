@@ -11,7 +11,7 @@
 </a>
   &nbsp;&nbsp;
 <a href="https://fb.com/rohansirohi" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="starboy_z900" width="22px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://instagram.com/jasper_jaat" target="blank">
