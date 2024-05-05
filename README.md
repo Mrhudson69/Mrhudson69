@@ -46,7 +46,7 @@
 
 - 📦 Setting Up OpenMediaVault on Proxmox - [Github](https://github.com/Mrhudson69/Setup-Openmedia-Vault-on-Proxmox)
 
-- 📦 Created own website based on HTML and CSS from scratch - [Github](https://github.com/Mrhudson69/Thinkwisenew)
+- 📦 Created own website based on HTML & CSS from scratch - [Github](https://github.com/Mrhudson69/Thinkwisenew)
 
 - 📦 Some of my others works that I have done - [Github](https://github.com/Mrhudson69/Devops-guide)   
 
