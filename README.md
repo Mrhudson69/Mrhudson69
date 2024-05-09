@@ -19,7 +19,7 @@
 </a>
   &nbsp;&nbsp;
 <a href="https://portfolio.bullyfive.in/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="rohan_sirohi_blogs" width="22px" />
 </a></p>
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
