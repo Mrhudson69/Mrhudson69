@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/starboyjaat/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="RohanSirohi" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="Rohan Sirohi" width="22px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22533399/rohan-sirohi" target="blank">
