@@ -15,7 +15,7 @@
 </a>
   &nbsp;&nbsp;
 <a href="https://instagram.com/jasper_jaat" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="rohan sirohi" width="22px" />
 </a>
   &nbsp;&nbsp;
 <a href="https://portfolio.bullyfive.in/" target="blank">
