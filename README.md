@@ -26,7 +26,7 @@
 
 🏢 I’m currently working in [Spraxa Solutions](https://www.spraxa.com) as **Sys Admin**
 
-🌱 I’m currently working on **Setting up infra on Proxmox**
+🌱 I am currently working on **Setting up infra on Proxmox**
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
