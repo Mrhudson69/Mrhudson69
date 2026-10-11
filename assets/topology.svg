@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" role="img" aria-label="Live infrastructure topology with animated request flow">
+  <title>live infrastructure · request flow</title>
+
+  <defs>
+    <linearGradient id="node" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c2128"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <filter id="glow" x="-120%" y="-120%" width="340%" height="340%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- edges -->
+    <path id="e1" d="M150,150 H190"/>
+    <path id="e2" d="M310,150 C342,150 338,80 370,80"/>
+    <path id="e3" d="M310,150 H370"/>
+    <path id="e4" d="M310,150 C342,150 338,220 370,220"/>
+    <path id="e5" d="M490,150 H580"/>
+    <path id="e6" d="M490,220 C534,220 536,150 580,150"/>
+    <path id="e7" d="M490,80 C534,80 536,150 580,150"/>
+  </defs>
+
+  <style>
+    .lbl  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11.5px; fill: #e6edf3; }
+    .sub  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 8.5px;  fill: #7d8590; }
+    .cap  { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px;   fill: #7d8590; }
+    .edge { fill: none; stroke: #30363d; stroke-width: 1.6; }
+    .nb   { fill: url(#node); stroke: #30363d; stroke-width: 1; }
+    .scrape { fill: none; stroke: #d29922; stroke-width: 1; stroke-dasharray: 3 6; opacity: .45;
+              animation: march 1.6s linear infinite; }
+    @keyframes march { to { stroke-dashoffset: -18 } }
+    @keyframes pulse { 0%,100% { opacity: .3 } 50% { opacity: 1 } }
+    @keyframes breathe { 0%,100% { stroke: #30363d } 50% { stroke: #1f6feb } }
+    #live { animation: pulse 1.8s ease-in-out infinite }
+    .nb   { animation: breathe 6s ease-in-out infinite }
+  </style>
+
+  <rect x="0.5" y="0.5" width="759" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <text class="cap" x="24" y="30">live infrastructure · request flow</text>
+  <circle id="live" cx="722" cy="26" r="4" fill="#3fb950"/>
+  <text class="cap" x="712" y="30" text-anchor="end">all targets up</text>
+
+  <!-- edges -->
+  <use href="#e1" class="edge"/><use href="#e2" class="edge"/><use href="#e3" class="edge"/>
+  <use href="#e4" class="edge"/><use href="#e5" class="edge"/><use href="#e6" class="edge"/>
+  <use href="#e7" class="edge"/>
+
+  <!-- nodes -->
+  <g>
+    <rect class="nb" x="30"  y="128" width="120" height="44" rx="8"/>
+    <text class="lbl" x="90"  y="148" text-anchor="middle">internet</text>
+    <text class="sub" x="90"  y="162" text-anchor="middle">~1M req / day</text>
+
+    <rect class="nb" x="190" y="128" width="120" height="44" rx="8"/>
+    <text class="lbl" x="250" y="148" text-anchor="middle">nginx edge</text>
+    <text class="sub" x="250" y="162" text-anchor="middle">95+ domains · tls</text>
+
+    <rect class="nb" x="370" y="58"  width="120" height="44" rx="8"/>
+    <text class="lbl" x="430" y="78"  text-anchor="middle">gocd</text>
+    <text class="sub" x="430" y="92"  text-anchor="middle">100+ pipelines</text>
+
+    <rect class="nb" x="370" y="128" width="120" height="44" rx="8"/>
+    <text class="lbl" x="430" y="148" text-anchor="middle">proxmox</text>
+    <text class="sub" x="430" y="162" text-anchor="middle">lxc · vms · ha</text>
+
+    <rect class="nb" x="370" y="198" width="120" height="44" rx="8"/>
+    <text class="lbl" x="430" y="218" text-anchor="middle">starrocks</text>
+    <text class="sub" x="430" y="232" text-anchor="middle">clickhouse · flink</text>
+
+    <rect class="nb" x="580" y="128" width="120" height="44" rx="8"/>
+    <text class="lbl" x="640" y="148" text-anchor="middle">data layer</text>
+    <text class="sub" x="640" y="162" text-anchor="middle">mssql · postgres</text>
+  </g>
+
+  <!-- prometheus scrape lines -->
+  <path class="scrape" d="M90,280 V172"/>
+  <path class="scrape" d="M250,280 V172"/>
+  <path class="scrape" d="M430,280 V242"/>
+  <path class="scrape" d="M640,280 V172"/>
+
+  <rect x="40" y="280" width="680" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
+  <circle cx="64" cy="300" r="4" fill="#d29922"/>
+  <text class="lbl" x="80" y="304">prometheus · grafana · mimir · alertmanager</text>
+  <text class="sub" x="700" y="304" text-anchor="end">scraping every target · 24/7</text>
+
+  <!-- ===== packets ===== -->
+  <g fill="#58a6ff" filter="url(#glow)">
+    <circle r="3.4"><animateMotion dur="1.6s" begin="0s"   repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+    <circle r="3.4"><animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion></circle>
+
+    <circle r="3.4"><animateMotion dur="2.2s" begin="0.3s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+    <circle r="3.4"><animateMotion dur="2.2s" begin="1.4s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion></circle>
+
+    <circle r="3.4"><animateMotion dur="2.6s" begin="0.6s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+    <circle r="3.4"><animateMotion dur="2.6s" begin="1.9s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion></circle>
+
+    <circle r="3.4"><animateMotion dur="2.4s" begin="1.1s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion></circle>
+    <circle r="3.4"><animateMotion dur="2.8s" begin="0.4s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion></circle>
+  </g>
+
+  <g fill="#3fb950" filter="url(#glow)">
+    <circle r="3.4"><animateMotion dur="3.2s" begin="0.2s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion></circle>
+    <circle r="3.4"><animateMotion dur="3.2s" begin="2.0s" repeatCount="indefinite"><mpath href="#e7"/></animateMotion></circle>
+  </g>
+</svg>
